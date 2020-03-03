@@ -1,0 +1,5 @@
+$ git config --global user.name
+Benjamin Cunha
+$ git config --global user.email
+Ben@codeclimate.com
+$
